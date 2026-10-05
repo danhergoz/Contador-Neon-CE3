@@ -1,0 +1,6 @@
+{
+  "name": "Cronos Neon — Contador Digital 05:00",
+  "description": "Contador digital minimalista de 5 minutos con estética neón ciber-luminosa y animaciones suaves al pasar los segundos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
